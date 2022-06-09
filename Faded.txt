@@ -3672,7 +3672,7 @@ if game.CoreGui:FindFirstChild("Library") then
 
 -- oofhead should stop making jokes
 
-local Win = VLib:Window("REN GUI ", "v1")
+local Win = VLib:Window("WENDY GUI ", "v1")
 
 
 
