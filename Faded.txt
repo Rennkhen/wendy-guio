@@ -3889,9 +3889,9 @@ end)
 
 end)
 
-scripts:Button("soon ",function()
+scripts:Button("aimlocks ",function()
 
-
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Rennkhen/wendy-gvi/main/Faded.txt'),true))()
 
 end)
 
